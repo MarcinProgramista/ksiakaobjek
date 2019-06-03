@@ -117,5 +117,4 @@ bool UzytkownikMenedzer::czyUzytkownikJestZalogowany()
 void UzytkownikMenedzer::wylogowanieUzytkownika()
 {
     idZalogowanegoUzytkownika = 0;
-    cout << idZalogowanegoUzytkownika << endl;
 }

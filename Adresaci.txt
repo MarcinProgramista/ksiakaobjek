@@ -1,3 +1,7 @@
 1|1|Ewa|Czapla|234|12|wqe|
 2|2|Szymon|Gornik|234 555 666|wew|qwe|
 3|1|Terry|Dorsz|222|asd|asd|
+4|1|Ewa|Sad|asd|asd|sad|
+5|1|Ewa|Asd|asd|sa||
+6|2|Kacper|Gornik|monika|24|234|
+7|3|Szymon|Sad|asd|asd|asd|

@@ -59,4 +59,5 @@ void AdresatMenedzer::wyswietlWszystkichAdresatow()
         cout << "Emial:                " << adresaci[i].pobierzEmail() <<  endl;
         cout << "Adres:                " << adresaci[i].pobierzAdres() <<  endl;
     }
+    system("pause");
 }
