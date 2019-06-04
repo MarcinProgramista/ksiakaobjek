@@ -5,3 +5,4 @@
 5|1|Ewa|Asd|asd|sa||
 6|2|Kacper|Gornik|monika|24|234|
 7|3|Szymon|Sad|asd|asd|asd|
+8|1|Bartek|Gornik|435|m@ads.pl|ul. skosna|
