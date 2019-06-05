@@ -49,6 +49,11 @@ bool KsiazkaAdresowa::czyUzytkownikJestZalogowany()
         return false;
 }
 
+void KsiazkaAdresowa::usunAdresata()
+{
+    adresatMenedzer -> usunAdresata();
+}
+
 char KsiazkaAdresowa::wybierzOpcjeZMenuGlownego()
 {
     char wybor;

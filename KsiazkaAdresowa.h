@@ -29,6 +29,7 @@ public:
     void logowanieUzytkownika();
     void wylogowanieUzytkownika();
     void dodajAdresata();
+    void usunAdresata();
     void wyswietlWszystkichAdresatow();
     char wybierzOpcjeZMenuGlownego();
     char wybierzOpcjeZMenuUzytkownika();
