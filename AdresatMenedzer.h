@@ -26,6 +26,9 @@ class AdresatMenedzer
             adresaci = plikZAdresatami.wczytajAdresatowZalogowanegoUzytkownikaZPliku(ID_ZALOGOWANEGO_UZYTKOWNIKA);
         };
     void dodajAdresata();
+    void usunAdresata();
+    int podajIdWybranegoAdresata();
+    int wczytajLiczbeCalkowita();
     void wyswietlWszystkichAdresatow();
     void wyszukajAdresatowPoImieniu();
     void wyszukajAdresatowPoNazwisku();
