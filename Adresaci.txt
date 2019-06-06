@@ -1,7 +1,7 @@
 1|1|Ewa|Czapla|234|12|wqe|
 3|1|Terry|Dorsz|222|asd|asd|
-4|1|Ewa|Sad|asd|asd|sad|
+4|1|Elzbieta|Czapla|asd|asd|sad|
 6|2|Kacper|Gornik|monika|24|234|
 12|3|Karol|Dawid|3|23|23|
 13|2|Kaska|Czapla|234|4|sdf|
-14|3|Justyna|Gornik|23345|sdf|sdf|
+14|3|Justyna|Gornik|666 666 666|justyna@gmail.com|Krakow|
