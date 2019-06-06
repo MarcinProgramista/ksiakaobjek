@@ -54,6 +54,11 @@ void KsiazkaAdresowa::usunAdresata()
     adresatMenedzer -> usunAdresata();
 }
 
+void KsiazkaAdresowa::edytujAdresata()
+{
+    adresatMenedzer -> edytujAdresata();
+}
+
 char KsiazkaAdresowa::wybierzOpcjeZMenuGlownego()
 {
     char wybor;
