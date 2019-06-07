@@ -1,7 +1,7 @@
-1|1|Ewa|Czapla|234|12|wqe|
+1|1|Ewa|Czapla|777 999 888|12|wqe|
 3|1|Terry|Dorsz|222|asd|asd|
-4|1|Elzbieta|Czapla|asd|asd|sad|
+4|1|Pawel|Czapla|444 555 666|asd|sad|
 6|2|Kacper|Gornik|monika|24|234|
-12|3|Karol|Dawid|3|23|23|
+12|3|Karol|Dawid|111 222 333|23|23|
 13|2|Kaska|Czapla|234|4|sdf|
 14|3|Justyna|Gornik|666 666 666|justyna@gmail.com|Krakow|
