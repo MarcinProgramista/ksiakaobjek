@@ -49,6 +49,11 @@ bool KsiazkaAdresowa::czyUzytkownikJestZalogowany()
         return false;
 }
 
+void KsiazkaAdresowa::zmianaHaslaZalogowanegoUzytkownika()
+{
+    uzytkownikMenedzer.zmianaHaslaZalogowanegoUzytkownika();
+}
+
 void KsiazkaAdresowa::usunAdresata()
 {
     adresatMenedzer -> usunAdresata();
